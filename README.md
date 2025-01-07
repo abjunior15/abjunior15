@@ -7,7 +7,7 @@
 
 - 🔭 Worked for a year on **Tweeq**
 
-- 🌱 I’m currently learning **Test driven development**
+- 🌱 I have done **Test driven development** 
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
