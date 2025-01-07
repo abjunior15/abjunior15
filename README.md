@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abjunior15&theme=matrix&margin-h=2&margin-w=2&no-bg=true" alt="abjunior15" /></a> </p>
 
-- 🔭 I’m currently working on **Tweeq**
+- 🔭 Worked for a year on **Tweeq**
 
 - 🌱 I’m currently learning **Test driven development**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **Flutter, Dart, Rest Api, React Native, Bloc, FireBase, GetX**
+- 💬 Ask me about **Flutter, Dart, Rest Api, React Native, Bloc, FireBase, GetX, grpc**
 
 - 📫 How to reach me **abdullahtariqjutt@gmail.com**
 
